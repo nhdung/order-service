@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: nhdung/catalog-service
+  IMAGE_NAME: nhdung/order-service
   VERSION: latest
 
 jobs:
